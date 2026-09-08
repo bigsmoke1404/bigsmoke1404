@@ -39,18 +39,81 @@ Drawn to problems with no obvious solution. Interested in intelligent systems, c
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![THE-LAST-PHOTOGRAPH](https://github-readme-stats.vercel.app/api/pin/?username=bigsmoke1404&repo=THE-LAST-PHOTOGRAPH&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&icon_color=555555&text_color=666666)](https://github.com/bigsmoke1404/THE-LAST-PHOTOGRAPH)&nbsp;
-[![Museum-of-Things-That-Never-Happened](https://github-readme-stats.vercel.app/api/pin/?username=bigsmoke1404&repo=The-Museum-of-Things-That-Never-Happened&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&icon_color=555555&text_color=666666)](https://github.com/bigsmoke1404/The-Museum-of-Things-That-Never-Happened)
+**[THE-LAST-PHOTOGRAPH](https://github.com/bigsmoke1404/THE-LAST-PHOTOGRAPH)**
 
-[![interviewforge-ai](https://github-readme-stats.vercel.app/api/pin/?username=bigsmoke1404&repo=interviewforge-ai&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&icon_color=555555&text_color=666666)](https://github.com/bigsmoke1404/interviewforge-ai)&nbsp;
-[![SentinelX-AI](https://github-readme-stats.vercel.app/api/pin/?username=bigsmoke1404&repo=SentinelX-AI&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&icon_color=555555&text_color=666666)](https://github.com/bigsmoke1404/SentinelX-AI)
+Interactive forensic digital experience. Reconstructs temporal narratives from photographic evidence — cinematically, technically, immersively.
 
-[![Digital-Doppelganger](https://github-readme-stats.vercel.app/api/pin/?username=bigsmoke1404&repo=Digital-Doppelg-nger-Implementation-Plan&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&icon_color=555555&text_color=666666)](https://github.com/bigsmoke1404/Digital-Doppelg-nger-Implementation-Plan)&nbsp;
-[![THE-67-WEBSITE](https://github-readme-stats.vercel.app/api/pin/?username=bigsmoke1404&repo=THE-67-WEBSITE&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&icon_color=555555&text_color=666666)](https://github.com/bigsmoke1404/THE-67-WEBSITE)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=555555)
+![AI](https://img.shields.io/badge/AI-111111?style=flat-square&logoColor=555555)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**[Museum of Things That Never Happened](https://github.com/bigsmoke1404/The-Museum-of-Things-That-Never-Happened)**
+
+Interactive digital museum exploring alternate realities and counterfactual history. What didn't happen — and what could have?
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=555555)
+![Creative Tech](https://img.shields.io/badge/Creative%20Tech-111111?style=flat-square&logoColor=555555)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[InterviewForge AI](https://github.com/bigsmoke1404/interviewforge-ai)**
+
+Production-grade AI coding interview platform. Real-time coding environments, AI evaluation, Stripe payments, Docker, CI/CD — the full stack.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=555555)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=555555)
+![Stripe](https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=555555)
+
+</td>
+<td width="50%" valign="top">
+
+**[SentinelX AI](https://github.com/bigsmoke1404/SentinelX-AI)**
+
+Real-time cybersecurity monitoring platform. ML-powered threat detection, live dashboards, secure auth, Docker deployment. Security meets intelligence.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=555555)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=555555)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[Digital Doppelgänger](https://github.com/bigsmoke1404/Digital-Doppelg-nger-Implementation-Plan)**
+
+Analyzes text and chat patterns to build a detailed profile of your writing style. Your linguistic fingerprint, visualized.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=555555)
+![NLP](https://img.shields.io/badge/NLP-111111?style=flat-square&logoColor=555555)
+
+</td>
+<td width="50%" valign="top">
+
+**[THE-67-WEBSITE](https://github.com/bigsmoke1404/THE-67-WEBSITE)**
+
+A highly interactive, chaotic website dedicated to the number 67. Some experiments need no justification.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=555555)
+![Chaos](https://img.shields.io/badge/Chaos-111111?style=flat-square&logoColor=555555)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -64,16 +127,13 @@ Drawn to problems with no obvious solution. Interested in intelligent systems, c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bigsmoke1404&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&icon_color=555555&title_color=cccccc&text_color=666666&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Activity" width="48%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bigsmoke1404&theme=dark&background=0d0d0d&border=1f1f1f&ring=555555&fire=aaaaaa&currStreakNum=cccccc&sideNums=888888&currStreakLabel=666666&sideLabels=555555&dates=444444" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bigsmoke1404&theme=dark&background=0d0d0d&border=1f1f1f&ring=555555&fire=aaaaaa&currStreakNum=cccccc&sideNums=888888&currStreakLabel=555555&sideLabels=444444&dates=333333" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsmoke1404&layout=compact&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&text_color=666666&langs_count=6&custom_title=Languages&hide_border=false" width="40%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsmoke1404&layout=compact&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=cccccc&text_color=666666&langs_count=6&custom_title=Languages" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bigsmoke1404&bg_color=0d0d0d&color=555555&line=333333&point=888888&area=true&area_color=1a1a1a&border_color=1f1f1f&custom_title=Commit+activity" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bigsmoke1404&bg_color=0d0d0d&color=444444&line=2a2a2a&point=777777&area=true&area_color=161616&border_color=1f1f1f&custom_title=Commit+activity&hide_border=false" width="90%"/>
 
 </div>
 
@@ -89,38 +149,34 @@ Drawn to problems with no obvious solution. Interested in intelligent systems, c
 
 <div align="center">
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=666666)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=666666)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=666666)
-![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=666666)
-
-<br/>
-
-**Frameworks & Runtime**
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=666666)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=666666)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=666666)
-![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=666666)
+**Languages**&emsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=555555)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=555555)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=555555)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=555555)
 
 <br/>
 
-**AI & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=666666)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=666666)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=666666)
+**Frameworks**&emsp;
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=555555)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=555555)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=555555)
+![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=555555)
 
 <br/>
 
-**Infrastructure**
+**AI & Data**&emsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=555555)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=555555)
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=555555)
 
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=666666)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=666666)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=666666)
-![Stripe](https://img.shields.io/badge/Stripe-0d0d0d?style=flat-square&logo=stripe&logoColor=666666)
+<br/>
+
+**Infrastructure**&emsp;
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=555555)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=555555)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=555555)
+![Stripe](https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=555555)
 
 </div>
 
@@ -161,7 +217,8 @@ Drawn to problems with no obvious solution. Interested in intelligent systems, c
   <img alt="contribution snake" src="https://raw.githubusercontent.com/bigsmoke1404/bigsmoke1404/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-<sub>To enable the snake animation — add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Actions workflow to this repo.</sub>
+<br/>
+<sub>Snake animation activates once the <a href="https://github.com/Platane/snk">Platane/snk</a> Actions workflow is added to this repo.</sub>
 
 </div>
 
@@ -173,15 +230,13 @@ Drawn to problems with no obvious solution. Interested in intelligent systems, c
 
 <div align="center">
 
-<br/>
-
-*still building. still breaking. still curious.*
+*still building. &nbsp; still breaking. &nbsp; still curious.*
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=555555)](https://github.com/bigsmoke1404)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=555555)](mailto:sreeragwork6@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=555555)](https://linkedin.com/in/sreerag-s)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=555555)](https://github.com/bigsmoke1404)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=555555)](mailto:sreeragwork6@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=555555)](https://linkedin.com/in/sreerag-s)
 
 <br/><br/>
 
