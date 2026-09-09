@@ -217,9 +217,6 @@ A highly interactive, chaotic website dedicated to the number 67. Some experimen
   <img alt="contribution snake" src="https://raw.githubusercontent.com/bigsmoke1404/bigsmoke1404/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-<br/>
-<sub>Snake animation activates once the <a href="https://github.com/Platane/snk">Platane/snk</a> Actions workflow is added to this repo.</sub>
-
 </div>
 
 <br/>
